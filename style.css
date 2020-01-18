@@ -10,6 +10,7 @@ font-size: 16px;
 text-transform: uppercase;
 }
 
-h5{
-  
+.container{
+  display: flex;
+  flex-direction: row;
 }
